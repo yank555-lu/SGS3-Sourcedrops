@@ -1325,6 +1325,7 @@ config IPCAM_01_BD
 config GC2PD_00_BD
 	bool "Galaxy Camera 2 common Board"
 
+
 config WRITEBACK_ENABLED
 	bool "Samsung Writeback Enable"
 	help
